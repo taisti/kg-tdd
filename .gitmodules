@@ -1,0 +1,3 @@
+[submodule "LexMapr"]
+	path = LexMapr
+	url = https://github.com/dudenzz/LexMapr.git
