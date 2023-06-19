@@ -1,4 +1,4 @@
-## Running the LexMapr in pytnon
+## Running LexMapr in Python
 1. Clone the repository
 2. In a terminal, navigate to this directory
 3. (optional) Create a virtual environment and add its base folder to .gitignore
