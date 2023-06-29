@@ -1,0 +1,60 @@
+T1	quantity 173 174	1
+T2	quantity 126 127	1
+T3	quantity 86 87	1
+T4	quantity 64 67	1⁄4
+T5	quantity 49 52	3⁄4
+T6	quantity 0 1	3
+T7	quantity 89 91	16
+T8	quantity 129 130	8
+T9	quantity 176 178	16
+T10	unit 179 184	ounce
+T11	unit 131 136	ounce
+T12	unit 92 97	ounce
+T13	unit 68 71	cup
+T14	unit 53 56	cup
+T15	unit 2 8	quarts
+T16	process 148 155	roasted
+T17	process 156 164	unsalted
+T18	unit 138 147	container
+T19	unit 99 102	bag
+T20	process 9 15	popped
+T22	process 25 48	remove unpopped kernels
+T21	food_product_with_unit 16 23	popcorn
+T23	food_product_with_unit 57 63	butter
+T24	food_product_with_unit 72 85	vegetable oil
+T25	food_product_with_unit 103 125	miniature marshmallows
+T26	food_product_with_unit 165 172	peanuts
+T27	unit 186 189	bag
+T28	trade_name 190 195	M&M's
+T29	food_product_with_unit 196 217	plain chocolate candy
+T30	color 225 231	orange
+T31	color 236 241	black
+T32	food_product_without_unit_whole 242 252	candy corn
+R2	refers Arg1:T32 Arg2:T31	
+R3	refers Arg1:T32 Arg2:T30	
+R5	refers Arg1:T29 Arg2:T28	
+R6	refers Arg1:T29 Arg2:T27	
+R7	each Arg1:T27 Arg2:T10	
+R8	refers Arg1:T10 Arg2:T9	
+R9	refers Arg1:T27 Arg2:T1	
+R10	each Arg1:T18 Arg2:T11	
+R11	refers Arg1:T11 Arg2:T8	
+R12	refers Arg1:T18 Arg2:T2	
+R13	refers Arg1:T26 Arg2:T17	
+R14	refers Arg1:T26 Arg2:T16	
+R15	refers Arg1:T26 Arg2:T18	
+R16	refers Arg1:T25 Arg2:T19	
+R17	each Arg1:T19 Arg2:T12	
+R18	refers Arg1:T12 Arg2:T7	
+R19	refers Arg1:T19 Arg2:T3	
+R20	refers Arg1:T24 Arg2:T13	
+R21	refers Arg1:T13 Arg2:T4	
+R22	refers Arg1:T23 Arg2:T14	
+R23	refers Arg1:T14 Arg2:T5	
+R24	refers Arg1:T21 Arg2:T22	
+R25	refers Arg1:T21 Arg2:T20	
+R26	refers Arg1:T21 Arg2:T15	
+R27	refers Arg1:T15 Arg2:T6	
+T33	excluded 274 278	nuts
+R1	refers Arg1:T29 Arg2:T33	
+R4	refers Arg1:T29 Arg2:T32	

@@ -1,0 +1,23 @@
+T1	quantity 0 1	2
+T2	quantity 47 48	2
+T3	quantity 69 70	2
+T4	quantity 96 97	2
+T5	quantity 136 137	3
+T6	quantity 157 158	1
+T7	unit 71 77	ounces
+T8	unit 159 169	tablespoon
+T9	food_product 170 176	butter
+T10	physical_quality 138 143	fresh
+T11	food_product 144 156	basil leaves
+T12	process 78 91	thinly sliced
+T13	food_product 92 95	ham
+T14	quantity 2 8	slices
+T15	quantity 49 55	slices
+T16	food_product 56 68	swiss cheese
+T17	food_product 98 107	pineapple
+T18	unit 108 114	slices
+T19	process 116 121	cored
+T20	physical_quality 123 127	thin
+T21	unit 128 134	slices
+T22	food_product 9 23	sandwich bread
+T23	physical_quality 34 45	whole wheat

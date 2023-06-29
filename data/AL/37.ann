@@ -1,0 +1,28 @@
+T1	quantity 0 1	3
+T2	quantity 20 22	20
+T3	quantity 52 53	2
+T4	quantity 78 80	80
+T5	quantity 116 119	1/4
+T6	quantity 153 156	1/4
+T7	quantity 190 191	2
+T8	unit 120 123	cup
+T9	unit 157 160	cup
+T10	food_product 35 51	red wine vinegar
+T11	unit 23 34	milliliters
+T12	unit 54 63	teaspoons
+T13	physical_quality 93 105	extra virgin
+T14	food_product 106 115	olive oil
+T15	unit 81 92	milliliters
+T16	process 215 224	de-seeded
+T17	process 226 233	chopped
+T18	food_product 2 10	lettuces
+T19	food_product 12 18	butter
+T20	process 124 130	sliced
+T21	food_product 131 143	green olives
+T22	process 145 151	pitted
+T23	process 161 167	sliced
+T24	food_product 168 180	black olives
+T25	process 182 188	pitted
+T26	food_product 205 213	tomatoes
+T27	physical_quality 192 204	vine ripened
+T28	food_product 64 77	Dijon mustard

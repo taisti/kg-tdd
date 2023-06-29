@@ -1,0 +1,25 @@
+T1	quantity 0 1	2
+T2	quantity 78 83	1 1⁄2
+T3	quantity 148 149	8
+T4	physical_quality 186 198	extra virgin
+T5	food_product 199 208	olive oil
+T6	physical_quality 150 155	fresh
+T7	food_product 156 168	basil leaves
+T8	unit 84 88	cups
+T9	physical_quality 2 7	large
+T10	physical_quality 8 13	fresh
+T11	food_product 14 22	tomatoes
+T12	physical_quality 89 94	fresh
+T13	process 127 135	blanched
+T14	process 140 147	drained
+T15	food_product 95 99	corn
+T16	quantity 103 108	1 1/2
+T17	unit 109 113	cups
+T18	physical_quality 114 120	frozen
+T19	food_product 121 125	corn
+T20	food_product 169 185	balsamic vinegar
+T21	quantity 56 57	2
+T22	unit 58 61	lbs
+T23	food_product 62 77	cherry tomatoes
+T24	food_product 31 37	creole
+T25	food_product 42 51	beefsteak

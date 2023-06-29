@@ -1,0 +1,41 @@
+T1	quantity 134 137	1/4
+T2	quantity 116 119	1/2
+T3	quantity 94 97	1/3
+T4	quantity 80 83	1/3
+T5	quantity 50 51	1
+T6	quantity 25 26	1
+T7	quantity 0 1	1
+T8	unit 138 146	teaspoon
+T9	unit 120 128	teaspoon
+T10	unit 98 101	cup
+T11	unit 84 87	cup
+T12	unit 52 56	head
+T13	process 70 78	shredded
+T14	process 42 48	sliced
+T15	process 17 23	sliced
+T16	food_product_with_unit 88 93	sugar
+T17	food_product_with_unit 102 115	white vinegar
+T18	food_product_with_unit 129 133	salt
+T19	food_product_with_unit 147 153	pepper
+T20	food_product_with_unit 57 68	red cabbage
+T21	food_product_without_unit_countable 27 32	apple
+T22	physical_quality 34 40	medium
+T23	physical_quality 9 15	medium
+T25	food_product_without_unit_countable 2 7	onion
+R1	refers Arg1:T20 Arg2:T12	
+R2	refers Arg1:T21 Arg2:T22	
+R3	refers Arg1:T21 Arg2:T14	
+R4	refers Arg1:T25 Arg2:T23	
+R5	refers Arg1:T25 Arg2:T15	
+R6	refers Arg1:T25 Arg2:T7	
+R7	refers Arg1:T21 Arg2:T6	
+R8	refers Arg1:T12 Arg2:T5	
+R9	refers Arg1:T20 Arg2:T13	
+R10	refers Arg1:T16 Arg2:T11	
+R11	refers Arg1:T11 Arg2:T4	
+R12	refers Arg1:T17 Arg2:T10	
+R13	refers Arg1:T10 Arg2:T3	
+R14	refers Arg1:T18 Arg2:T9	
+R15	refers Arg1:T9 Arg2:T2	
+R16	refers Arg1:T19 Arg2:T8	
+R17	refers Arg1:T8 Arg2:T1	

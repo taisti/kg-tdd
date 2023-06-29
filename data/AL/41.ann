@@ -1,0 +1,13 @@
+T1	quantity 0 1	1
+T2	quantity 51 52	8
+T3	quantity 91 92	1
+T4	unit 2 5	box
+T5	unit 53 59	ounces
+T6	unit 93 96	bag
+T7	food_product 97 107	chocolates
+T8	food_product 60 72	cream cheese
+T9	food_product 6 14	cake mix
+T10	purpose 79 89	cake icing
+T11	food_product 109 114	white
+T12	process 115 122	melting
+T13	food_product 124 139	candy sprinkles

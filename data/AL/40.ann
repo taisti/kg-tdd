@@ -1,0 +1,19 @@
+T1	quantity 0 1	3
+T2	quantity 44 49	1 1/2
+T3	quantity 74 75	1
+T4	quantity 90 91	1
+T5	quantity 114 115	1
+T6	quantity 146 148	12
+T7	unit 2 13	tablespoons
+T8	unit 50 61	tablespoons
+T9	unit 92 100	teaspoon
+T10	unit 116 126	tablespoon
+T11	unit 149 155	pounds
+T12	food_product 62 73	brown sugar
+T13	physical_quality 127 132	fresh
+T14	food_product 133 145	thyme leaves
+T15	food_product 156 162	turkey
+T16	process 164 184	completely defrosted
+T17	food_product 14 25	kosher salt
+T18	food_product 101 113	black pepper
+T19	food_product 76 89	orange zested

@@ -1,0 +1,18 @@
+T1	quantity 0 1	1
+T2	quantity 17 18	4
+T3	quantity 42 43	6
+T4	quantity 77 79	12
+T5	quantity 112 113	3
+T6	unit 2 5	cup
+T7	process 33 40	chopped
+T8	food_product 6 16	mayonnaise
+T9	unit 44 50	ounces
+T10	process 67 75	shredded
+T11	food_product 51 65	cheddar cheese
+T12	unit 80 86	ounces
+T13	unit 114 120	ounces
+T14	food_product 87 92	bacon
+T15	process 94 100	cooked
+T16	process 103 110	crubled
+T17	food_product 121 137	slivered almonds
+T18	food_product 19 31	green onions

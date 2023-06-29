@@ -1,0 +1,23 @@
+T1	quantity 0 1	1
+T2	quantity 35 36	8
+T3	quantity 53 54	4
+T4	quantity 82 83	1
+T5	quantity 134 135	2
+T6	unit 136 147	tablespoons
+T7	unit 55 64	teaspoons
+T8	unit 84 87	cup
+T9	quantity 3 4	8
+T10	unit 5 10	ounce
+T11	unit 12 19	package
+T12	food_product 20 34	crescent rolls
+T13	food_product 65 81	prepared mustard
+T14	process 88 96	shredded
+T15	food_product 148 160	sesame seeds
+T16	food_product 119 133	cheddar cheese
+T17	food_product 97 109	swiss cheese
+T18	possible_substitue 82 109	1 cup shredded swiss cheese
+T19	possible_substitue 113 133	1 cup cheddar cheese
+T20	quantity 113 114	1
+T21	unit 115 118	cup
+T22	unit 37 43	slices
+T23	food_product 44 52	deli ham

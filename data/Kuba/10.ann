@@ -1,0 +1,40 @@
+T1	quantity 0 1	3
+T2	food_product_without_unit_countable 2 10	avocados
+T4	quantity 132 137	1 1/2
+T5	unit 138 142	cups
+T6	food_product_with_unit 149 157	tomatoes
+T8	quantity 187 188	1
+T9	food_product_without_unit_countable 189 198	red onion
+T10	process 200 206	sliced
+T3	quantity 208 209	3
+T11	unit 210 221	tablespoons
+T12	food_product_with_unit 222 235	white vinegar
+T13	quantity 236 237	2
+T14	unit 238 249	tablespoons
+T16	food_product_without_unit_uncountable 273 277	salt
+T17	food_product_without_unit_uncountable 278 284	pepper
+T18	physical_quality 12 16	ripe
+T19	process 159 185	cut into bite-sized chunks
+R1	refers Arg1:T5 Arg2:T4	
+R2	refers Arg1:T2 Arg2:T1	
+R3	refers Arg1:T2 Arg2:T18	
+R4	refers Arg1:T6 Arg2:T5	
+T7	physical_quality 143 148	fresh
+R5	refers Arg1:T6 Arg2:T7	
+R6	refers Arg1:T6 Arg2:T19	
+T15	food_product_with_unit 250 272	extra-virgin olive oil
+R7	refers Arg1:T9 Arg2:T8	
+R8	refers Arg1:T9 Arg2:T10	
+R9	refers Arg1:T12 Arg2:T11	
+R10	refers Arg1:T11 Arg2:T3	
+R11	refers Arg1:T15 Arg2:T14	
+R12	refers Arg1:T14 Arg2:T13	
+A1	optional T6 No
+A2	optional T9 No
+A3	optional T12 No
+A4	optional T16 No
+A5	optional T17 No
+A6	optional T15 No
+A7	optional T2 No
+T20	trade_name 52 56	Hass
+R13	refers Arg1:T2 Arg2:T20	

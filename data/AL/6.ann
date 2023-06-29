@@ -1,0 +1,23 @@
+T1	quantity 0 1	2
+T2	quantity 42 43	2
+T3	quantity 73 76	1⁄4
+T4	quantity 129 132	1⁄8
+T5	unit 44 55	tablespoons
+T6	process 59 65	melted
+T7	food_product 66 72	butter
+T8	unit 77 85	teaspoon
+T9	physical_quality 2 8	medium
+T10	food_product 9 24	baking potatoes
+T11	food_product 86 97	garlic salt
+T12	quantity 101 104	1/4
+T13	unit 105 113	teaspoon
+T14	food_product 114 128	seasoning salt
+T15	unit 133 141	teaspoon
+T16	food_product 142 148	pepper
+T17	food_product 149 159	sour cream
+T18	purpose 161 171	as topping
+T19	purpose 191 201	as topping
+T20	food_product 183 189	chives
+T21	physical_quality 26 40	6 - 8 oz. each
+T22	possible_substitue 73 97	1⁄4 teaspoon garlic salt
+T23	possible_substitue 105 128	teaspoon seasoning salt

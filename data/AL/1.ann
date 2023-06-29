@@ -1,0 +1,28 @@
+T1	quantity 0 1	2
+T2	unit 2 7	tubes
+T4	process 23 35	refrigerated
+T5	part 42 47	icing
+T6	physical_quality 37 47	with icing
+T7	quantity 48 49	4
+T8	unit 50 61	tablespoons
+T9	food_product 62 68	butter
+T10	process 70 76	melted
+T11	quantity 77 78	6
+T12	food_product 79 83	eggs
+T13	quantity 84 85	½
+T14	unit 86 89	cup
+T15	food_product 90 94	milk
+T16	quantity 95 96	2
+T17	unit 97 106	teaspoons
+T18	food_product 107 115	cinnamon
+T20	quantity 116 117	2
+T21	unit 118 127	teaspoons
+T22	food_product 128 135	vanilla
+T23	quantity 136 137	1
+T24	unit 138 141	cup
+T25	food_product 142 153	maple syrup
+T3	food_product 8 21	cinnamon roll
+T19	origin 142 147	maple
+T26	part 8 16	cinnamon
+T27	flavor 8 16	cinnamon
+T28	type 8 16	cinnamon

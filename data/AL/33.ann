@@ -1,0 +1,13 @@
+T1	quantity 0 1	2
+T2	quantity 18 19	3
+T3	quantity 38 39	8
+T4	quantity 52 53	3
+T5	quantity 78 79	3
+T6	unit 2 6	cups
+T7	unit 20 31	tablespoons
+T8	food_product 7 17	watermelon
+T9	food_product 32 37	sugar
+T10	food_product 40 51	mint leaves
+T11	unit 54 65	tablespoons
+T12	food_product 66 77	lemon juice
+T13	food_product 80 89	ice cubes

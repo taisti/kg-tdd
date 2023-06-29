@@ -1,0 +1,24 @@
+T1	quantity 0 1	2
+T2	quantity 29 31	15
+T3	quantity 48 49	1
+T4	quantity 71 72	½
+T5	quantity 92 93	½
+T6	process 119 126	whipped
+T7	process 157 164	crushed
+T8	food_product 127 132	cream
+T9	food_product 165 168	nut
+T10	purpose 134 145	for garnish
+T11	purpose 170 181	for topping
+T12	unit 94 102	teaspoon
+T13	unit 73 76	cup
+T14	unit 50 60	tablespoon
+T15	physical_quality 61 64	hot
+T16	food_product 65 70	water
+T19	unit 2 6	cups
+T20	physical_quality 7 15	full-fat
+T21	food_product 16 28	greek yogurt
+T22	food_product 86 91	sugar
+T23	process 77 85	powdered
+T24	process 103 109	ground
+T25	food_product 110 118	cardamom
+T17	food_product 32 47	saffron strands

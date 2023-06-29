@@ -4,7 +4,7 @@ import lexmapr.pipeline
 
 #minimal examples
 #RUNNING LEXMAPR AS IS
-lexmapr.pipeline.run(argparse.Namespace(input_file='sample_file.csv', config='sample_config.json',
+lexmapr.pipeline.run(argparse.Namespace(input_file='temp.csv', config='sample_config.json',
                                                 full=None, output=None, version=False,
                                                 bucket=False, no_cache=False, profile=None))
 
@@ -17,3 +17,4 @@ resources = lexmapr.pipeline_resources.get_config_resources('sample_config.json'
 lookup_table =  pipeline_helpers.merge_lookup_tables(lookup_table,resources)
 
 print(pipeline_helpers.map_term('chicken meat', lookup_table))
+

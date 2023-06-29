@@ -1,0 +1,21 @@
+T1	quantity 0 1	2
+T2	quantity 18 19	3
+T3	quantity 38 39	8
+T4	quantity 52 53	3
+T5	quantity 78 79	3
+T6	food_product_without_unit_countable 80 89	ice cubes
+T7	unit 54 65	tablespoons
+T8	food_product_with_unit 66 77	lemon juice
+T9	food_product_without_unit_countable 40 51	mint leaves
+T10	unit 20 31	tablespoons
+T11	unit 2 6	cups
+T12	food_product_with_unit 7 17	watermelon
+T13	food_product_with_unit 32 37	sugar
+R1	refers Arg1:T8 Arg2:T7	
+R2	refers Arg1:T9 Arg2:T3	
+R3	refers Arg1:T13 Arg2:T10	
+R4	refers Arg1:T10 Arg2:T2	
+R5	refers Arg1:T12 Arg2:T11	
+R6	refers Arg1:T11 Arg2:T1	
+R7	refers Arg1:T7 Arg2:T4	
+R8	refers Arg1:T6 Arg2:T5	

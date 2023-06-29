@@ -1,0 +1,18 @@
+T1	quantity 0 1	5
+T2	quantity 26 27	8
+T3	quantity 57 58	3
+T4	quantity 83 85	15
+T5	quantity 98 99	2
+T6	process 19 24	cubed
+T7	unit 2 8	pounds
+T8	food_product 9 17	potatoes
+T9	food_product 28 32	eggs
+T10	process 34 45	hard boiled
+T11	process 48 55	chopped
+T13	food_product 66 72	celery
+T14	process 74 81	chopped
+T12	part 59 65	stalks
+T15	unit 86 92	ounces
+T16	food_product 93 97	mayo
+T17	unit 100 109	teaspoons
+T18	food_product 110 114	salt

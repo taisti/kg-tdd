@@ -1,0 +1,21 @@
+T1	quantity 0 1	4
+T2	quantity 16 17	1
+T3	quantity 38 39	1
+T4	quantity 48 49	3
+T5	quantity 79 80	1
+T6	quantity 106 109	1⁄2
+T7	physical_quality 2 6	ripe
+T8	food_product 7 15	coconuts
+T9	unit 18 21	cup
+T10	unit 40 43	cup
+T11	unit 50 61	tablespoons
+T12	unit 81 89	teaspoon
+T13	unit 110 118	teaspoon
+T14	process 22 32	evaporated
+T15	food_product 33 37	milk
+T16	food_product 44 47	gin
+T17	food_product 62 67	sugar
+T18	process 90 96	ground
+T19	food_product 97 105	cinnamon
+T20	food_product 134 140	nutmeg
+T21	physical_quality 119 133	freshly grated

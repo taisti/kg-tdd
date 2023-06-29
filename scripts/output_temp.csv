@@ -1,0 +1,6 @@
+Sample_Id	Sample_Desc	Processed_Sample	Processed_Sample (With Scientific Name)	Matched_Components	Match_Status(Macro Level)
+0	1 3 ounces chocolate (prepared hot, cooled)	ounce chocolate prepared hot cooled	ounce chocolate prepared hot cooled	['hot chocolate food product:FOODON_00001246', 'ounce:NCIT_C48519', 'prepared seafood product:FOODON_00002471']	Component Match
+1	2 0.75 ounces creme de cacao (dark)	ounce creme de cacao dark	ounce creme de cacao dark	['cacao food product:FOODON_00001215', 'ounce:NCIT_C48519']	Component Match
+2	3 0.75 ounces vanilla vodka	ounce vanilla vodka	ounce vanilla vodka	['ounce:NCIT_C48519', 'vanilla:NCBITAXON_51238', 'vodka:FOODON_03305518']	Component Match
+3	4 1 ounce Kahlua	ounce kahlua	ounce kahlua	['ounce:NCIT_C48519']	Component Match
+4	5 6 mini marshmallows	mini marshmallow	mini marshmallow {althaea officinalis}	['marshmallow:FOODON_03305639']	Component Match

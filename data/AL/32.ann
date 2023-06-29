@@ -1,0 +1,9 @@
+T1	quantity 0 1	2
+T2	quantity 15 16	1
+T3	quantity 39 40	1
+T4	unit 2 8	slices
+T5	food_product 9 14	bread
+T6	unit 17 22	slice
+T7	food_product 23 38	American cheese
+T8	unit 41 51	tablespoon
+T9	food_product 52 62	mayonnaise

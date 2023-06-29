@@ -1,0 +1,17 @@
+T1	quantity 0 1	6
+T2	quantity 30 31	3
+T3	quantity 52 53	2
+T4	quantity 72 73	3
+T5	unit 2 13	tablespoons
+T6	unit 32 36	cups
+T7	unit 54 63	teaspoons
+T8	unit 74 85	tablespoons
+T9	food_product 14 20	butter
+T10	process 22 28	melted
+T11	process 37 45	powdered
+T12	food_product 46 51	sugar
+T13	food_product 64 71	vanilla
+T14	food_product 115 119	milk
+T17	possible_substitue 115 119	milk
+T18	possible_substitue 86 97	heavy cream
+T15	food_product 86 97	heavy cream

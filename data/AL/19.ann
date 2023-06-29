@@ -1,0 +1,19 @@
+T1	quantity 0 1	1
+T2	unit 13 16	can
+T3	quantity 3 5	15
+T4	unit 6 11	ounce
+T5	food_product 17 26	chickpeas
+T6	process 28 35	drained
+T7	quantity 36 37	1
+T8	quantity 54 57	1⁄4
+T9	quantity 72 73	1
+T10	quantity 95 98	1⁄8
+T11	food_product 38 53	lemon, juice of
+T12	unit 58 61	cup
+T13	food_product 62 71	olive oil
+T14	food_product 74 80	garlic
+T15	unit 81 86	clove
+T16	process 88 94	peeled
+T17	unit 99 107	teaspoon
+T18	process 127 134	crushed
+T19	food_product 108 125	red pepper flakes

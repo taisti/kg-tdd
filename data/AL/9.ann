@@ -1,0 +1,23 @@
+T1	quantity 0 1	1
+T2	quantity 56 57	1
+T3	quantity 88 91	1⁄2
+T4	quantity 134 135	1
+T5	quantity 174 175	2
+T6	quantity 185 186	1
+T7	food_product 2 6	lime
+T8	process 8 21	cut in wedges
+T9	food_product 33 44	kosher salt
+T10	unit 58 61	cup
+T11	unit 92 95	cup
+T12	food_product 136 139	cup
+T13	food_product 176 180	cups
+T14	food_product 187 190	cup
+T15	food_product 62 87	ruby red grapefruit juice
+T16	process 96 112	freshly squeezed
+T17	food_product 113 123	lime juice
+T18	quantity 125 126	4
+T19	food_product 127 132	limes
+T20	food_product 140 154	orange liqueur
+T21	food_product 163 173	Triple Sec
+T22	food_product 181 184	ice
+T23	food_product 191 204	white tequila

@@ -1,0 +1,12 @@
+T1	quantity 0 1	1
+T2	food_product 2 8	banana
+T3	quantity 9 10	1
+T4	food_product 11 28	maraschino cherry
+T5	quantity 29 30	1
+T6	quantity 32 33	7
+T7	unit 34 39	ounce
+T8	process 48 55	whipped
+T9	food_product 56 61	cream
+T10	physical_quality 41 47	canned
+T11	physical_quality 69 76	low-fat
+T12	trade_name 77 86	Redi-Whip

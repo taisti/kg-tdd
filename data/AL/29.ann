@@ -1,0 +1,23 @@
+T1	quantity 0 1	4
+T2	quantity 19 20	2
+T3	quantity 101 104	1/2
+T4	quantity 137 140	3/4
+T5	quantity 176 179	1/2
+T6	unit 2 6	cups
+T7	unit 21 32	tablespoons
+T8	unit 105 108	cup
+T9	unit 141 144	cup
+T10	unit 180 183	cup
+T11	food_product 7 18	rolled oats
+T12	food_product 33 38	seeds
+T13	food_product 40 44	chia
+T14	food_product 109 116	peanuts
+T15	physical_quality 118 126	unsalted
+T16	process 128 135	chopped
+T17	physical_quality 145 152	natural
+T18	food_product 153 166	peanut butter
+T19	process 168 174	melted
+T20	food_product 184 200	brown rice syrup
+T21	food_product 202 207	honey
+T22	possible_substitue 202 207	honey
+T23	possible_substitue 184 200	brown rice syrup

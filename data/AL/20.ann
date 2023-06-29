@@ -1,0 +1,21 @@
+T1	quantity 0 1	1
+T3	quantity 8 9	1
+T4	food_product 10 13	egg
+T5	quantity 14 15	1
+T6	quantity 77 80	2 2
+T7	unit 16 21	slice
+T8	food_product 22 36	cheddar cheese
+T9	unit 81 87	slices
+T10	food_product 88 96	deli ham
+T11	quantity 100 101	2
+T12	unit 102 108	slices
+T13	physical_quality 109 112	del
+T14	food_product 114 124	roast beef
+T15	food_product 136 140	meat
+T16	diet 130 135	lunch
+T19	trade_name 38 51	kraft singles
+T20	possible_substitue 53 75	other cheese works too
+T21	possible_substitue 22 51	cheddar cheese, kraft singles
+T22	food_product 2 7	bagel
+T2	possible_substitue 77 96	2 2 slices deli ham
+T17	possible_substitue 100 124	2 slices deli roast beef

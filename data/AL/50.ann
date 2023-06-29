@@ -1,0 +1,12 @@
+T1	quantity 0 1	2
+T2	quantity 21 22	1
+T3	quantity 28 29	3
+T4	quantity 69 70	2
+T5	unit 2 8	pounds
+T6	unit 30 41	tablespoons
+T7	unit 71 82	tablespoons
+T8	food_product 9 20	flank steak
+T9	food_product 83 92	olive oil
+T10	food_product 42 57	steak seasoning
+T11	food_product 59 67	Canadian
+T12	food_product 23 27	lime

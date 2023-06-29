@@ -1,0 +1,32 @@
+T1	quantity 0 2	15
+T2	quantity 48 49	½
+T3	quantity 64 65	½
+T4	quantity 88 89	1
+T5	quantity 111 113	16
+T6	quantity 152 153	1
+T7	quantity 177 178	1
+T8	unit 3 5	oz
+T9	unit 50 58	teaspoon
+T10	unit 66 74	teaspoon
+T11	food_product 59 63	salt
+T12	process 41 47	rinsed
+T13	process 29 36	drained
+T14	quantity 22 23	1
+T15	unit 24 27	can
+T16	food_product 6 20	garbanzo beans
+T17	food_product 82 87	cumin
+T18	process 75 81	ground
+T19	unit 90 95	clove
+T20	food_product 96 102	garlic
+T21	process 104 110	minced
+T22	unit 114 116	oz
+T23	process 117 124	roasted
+T24	food_product 125 135	red pepper
+T26	quantity 137 138	1
+T27	unit 139 142	jar
+T28	process 144 151	drained
+T29	unit 154 164	tablespoon
+T30	food_product 165 176	lemon juice
+T31	unit 179 189	tablespoon
+T32	physical_quality 190 202	extra virgin
+T33	food_product 203 212	olive oil

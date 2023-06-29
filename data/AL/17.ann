@@ -1,0 +1,20 @@
+T1	quantity 0 1	1
+T2	quantity 12 17	1 1⁄4
+T3	quantity 42 45	1⁄2
+T4	quantity 60 63	1⁄2
+T5	quantity 91 92	2
+T6	quantity 112 115	2⁄3
+T7	unit 2 5	cup
+T8	unit 18 27	teaspoons
+T9	unit 46 54	teaspoon
+T10	unit 64 67	cup
+T11	unit 93 104	tablespoons
+T12	unit 116 119	cup
+T13	food_product 6 11	flour
+T14	food_product 28 41	baking powder
+T15	food_product 55 59	salt
+T16	process 84 90	grated
+T17	physical_quality 68 75	low-fat
+T18	food_product 76 82	cheese
+T19	food_product 105 111	butter
+T20	food_product 120 124	milk

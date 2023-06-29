@@ -1,0 +1,26 @@
+T1	quantity 0 2	15
+T2	quantity 48 49	¼
+T3	quantity 64 65	1
+T4	quantity 79 80	½
+T5	quantity 103 104	½
+T6	quantity 121 122	1
+T7	quantity 146 147	2
+T8	unit 3 5	oz
+T9	unit 50 58	teaspoon
+T10	unit 66 71	clove
+T11	unit 81 89	teaspoon
+T12	unit 105 108	cup
+T13	food_product 109 120	basil pesto
+T14	food_product 6 20	garbanzo beans
+T15	quantity 22 23	1
+T16	unit 24 27	can
+T17	process 29 36	drained
+T18	process 41 47	rinsed
+T19	food_product 59 63	salt
+T20	food_product 72 78	garlic
+T21	process 90 96	ground
+T22	food_product 97 102	cumin
+T23	unit 123 133	tablespoon
+T24	unit 148 159	tablespoons
+T25	food_product 134 145	lemon juice
+T26	food_product 160 165	water

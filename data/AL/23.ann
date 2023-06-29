@@ -1,0 +1,18 @@
+T1	quantity 0 1	3
+T2	quantity 42 46	0.75
+T3	quantity 76 80	0.75
+T4	quantity 102 103	1
+T5	quantity 117 118	6
+T6	unit 2 8	ounces
+T7	unit 47 53	ounces
+T8	unit 81 87	ounces
+T9	unit 104 109	ounce
+T10	food_product 9 18	chocolate
+T11	process 20 32	prepared hot
+T12	process 34 40	cooled
+T13	food_product 54 68	creme de cacao
+T14	physical_quality 70 74	dark
+T15	food_product 88 101	vanilla vodka
+T16	trade_name 110 116	Kahlua
+T17	physical_quality 119 123	mini
+T18	food_product 124 136	marshmallows

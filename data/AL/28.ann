@@ -1,0 +1,11 @@
+T1	quantity 0 1	¼
+T2	quantity 25 26	1
+T3	quantity 37 38	1
+T4	unit 2 5	cup
+T5	unit 27 30	cup
+T6	unit 39 42	cup
+T7	food_product 6 16	strawberry
+T8	process 18 24	sliced
+T9	food_product 31 36	water
+T10	physical_quality 43 48	whole
+T11	food_product 49 53	milk

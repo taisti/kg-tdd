@@ -1,0 +1,15 @@
+T1	quantity 0 1	2
+T2	quantity 38 40	14
+T3	quantity 73 74	4
+T4	quantity 86 87	1
+T5	unit 2 8	ounces
+T6	unit 41 47	ounces
+T7	unit 75 79	cups
+T8	unit 88 96	teaspoon
+T9	physical_quality 9 20	unsweetened
+T10	food_product 21 37	baking chocolate
+T11	process 48 57	sweetened
+T12	process 58 67	condensed
+T13	food_product 68 72	milk
+T14	food_product 80 85	water
+T15	food_product 97 104	vanilla

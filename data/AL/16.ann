@@ -1,0 +1,22 @@
+T1	quantity 0 1	4
+T2	quantity 45 46	3
+T3	quantity 69 70	2
+T4	quantity 95 96	1
+T5	quantity 118 119	6
+T6	quantity 143 144	1
+T7	quantity 162 163	2
+T8	unit 47 58	tablespoons
+T9	unit 71 82	tablespoons
+T10	process 111 117	minced
+T11	unit 120 131	tablespoons
+T12	unit 145 153	teaspoon
+T13	unit 164 175	tablespoons
+T14	process 176 182	minced
+T15	food_product 183 190	parsley
+T16	food_product 154 161	oregano
+T17	food_product 132 142	limoncello
+T18	food_product 83 94	lemon juice
+T19	food_product 59 68	olive oil
+T22	food_product 2 15	salmon steaks
+T23	food_product 97 109	spring onion
+T20	physical_quality 22 43	weighing approx. 8 oz

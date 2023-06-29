@@ -1,0 +1,14 @@
+T1	food_product 0 7	carrots
+T2	food_product 8 20	canning salt
+T3	food_product 32 39	carrots
+T4	taste 41 46	Sweet
+T5	food_product 48 59	brown sugar
+T6	quantity 60 61	2
+T7	quantity 79 80	2
+T8	quantity 92 93	1
+T9	unit 62 66	cups
+T10	unit 81 85	cups
+T11	unit 94 97	cup
+T12	food_product 67 78	brown sugar
+T13	food_product 98 110	orange juice
+T14	food_product 86 91	water

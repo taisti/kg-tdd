@@ -1,0 +1,35 @@
+T1	quantity 0 1	3
+T2	quantity 21 22	1
+T3	quantity 85 86	1
+T4	quantity 105 106	1
+T5	quantity 134 135	1
+T6	unit 2 6	cups
+T7	quantity 24 26	14
+T8	unit 27 32	ounce
+T9	unit 87 90	cup
+T10	unit 34 37	can
+T11	unit 107 117	tablespoon
+T12	unit 136 144	teaspoon
+T13	process 145 151	ground
+T14	process 91 97	mashed
+T15	process 38 47	sweetened
+T18	excluded 68 83	evaporated milk
+T19	food_product_with_unit 98 104	banana
+T20	food_product_with_unit 118 133	vanilla extract
+T16	food_product_with_unit 48 62	condensed milk
+T17	food_product_with_unit 152 160	cinnamon
+R1	refers Arg1:T6 Arg2:T1	
+R2	refers Arg1:T8 Arg2:T7	
+R3	refers Arg1:T10 Arg2:T2	
+R4	refers Arg1:T16 Arg2:T15	
+R5	not_substitutable_with Arg1:T16 Arg2:T18	
+R6	refers Arg1:T16 Arg2:T10	
+R7	each Arg1:T10 Arg2:T8	
+R8	refers Arg1:T19 Arg2:T14	
+R9	refers Arg1:T19 Arg2:T9	
+R10	refers Arg1:T9 Arg2:T3	
+R11	refers Arg1:T20 Arg2:T11	
+R12	refers Arg1:T11 Arg2:T4	
+R13	refers Arg1:T17 Arg2:T13	
+R14	refers Arg1:T17 Arg2:T12	
+R15	refers Arg1:T12 Arg2:T5	

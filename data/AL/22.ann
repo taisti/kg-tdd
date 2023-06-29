@@ -1,0 +1,25 @@
+T1	quantity 0 1	1
+T2	physical_quality 48 53	whole
+T3	quantity 61 62	3
+T4	quantity 80 83	1/2
+T5	quantity 108 109	1
+T6	quantity 134 135	3
+T7	physical_quality 2 7	whole
+T8	unit 63 67	cups
+T9	unit 84 87	cup
+T10	unit 136 147	tablespoons
+T11	food_product 54 60	cloves
+T13	process 8 20	fully cooked
+T14	food_product 68 79	brown sugar
+T15	taste 88 93	spicy
+T16	food_product 94 107	brown mustard
+T18	unit 110 113	can
+T19	trade_name 114 123	dr pepper
+T20	food_product 128 132	Coke
+T21	possible_substitue 128 132	Coke
+T22	possible_substitue 114 123	dr pepper
+T23	food_product 148 167	apple cider vinegar
+T12	physical_quality 21 28	bone-in
+T24	food_product 29 32	ham
+T25	quantity 34 39	15-18
+T26	unit 40 46	Pounds

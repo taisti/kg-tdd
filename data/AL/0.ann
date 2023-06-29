@@ -1,0 +1,16 @@
+T1	unit 2 8	ounces
+T2	food_product 9 12	rum
+T3	quantity 0 1	5
+R1	refers Arg1:T1 Arg2:T3	
+R2	refers Arg1:T2 Arg2:T1	
+T4	quantity 13 14	4
+T5	unit 15 21	ounces
+T6	food_product 22 32	triple sec
+T7	quantity 33 34	3
+T8	quantity 52 54	20
+T9	unit 35 41	ounces
+T10	unit 55 61	ounces
+T11	trade_name 42 51	Tia Maria
+T12	food_product 62 74	orange juice
+T13	origin 62 68	orange
+T14	color 62 68	orange

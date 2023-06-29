@@ -1,0 +1,13 @@
+T1	quantity 0 1	2
+T2	food_product 2 6	eggs
+T3	physical_quality 8 27	at room temperature
+T4	food_product 29 33	salt
+T5	food_product 34 40	pepper
+T6	quantity 41 42	1
+T7	unit 43 53	tablespoon
+T8	process 54 63	clarified
+T9	food_product 64 70	butter
+T10	quantity 79 84	Pinch
+T11	process 88 95	chopped
+T12	purpose 97 108	for garnish
+T13	food_product 71 77	chives

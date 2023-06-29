@@ -1,0 +1,12 @@
+T1	quantity 0 1	1
+T2	quantity 15 18	1⁄2
+T3	quantity 33 34	6
+T4	unit 2 7	ounce
+T5	unit 19 24	ounce
+T6	unit 35 41	ounces
+T7	trade_name 8 14	Kahlua
+T8	food_product 25 32	tequila
+T9	food_product 46 52	coffee
+T10	physical_quality 42 45	hot
+T11	process 53 60	whipped
+T12	food_product 61 66	cream

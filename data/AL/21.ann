@@ -1,0 +1,20 @@
+T1	quantity 0 1	1
+T2	quantity 12 13	2
+T3	quantity 46 47	1
+T4	quantity 65 66	1
+T5	quantity 84 89	1 1/2
+T6	quantity 113 116	1/2
+T7	unit 2 5	cup
+T8	unit 14 20	sticks
+T9	process 36 44	softened
+T10	physical_quality 21 27	salted
+T11	food_product 28 34	butter
+T12	unit 48 56	teaspoon
+T13	unit 67 75	teaspoon
+T14	unit 90 94	cups
+T15	unit 117 125	teaspoon
+T16	food_product 57 64	vinegar
+T17	food_product 76 83	vanilla
+T18	food_product 95 112	all purpose flour
+T19	food_product 126 137	baking soda
+T20	food_product 6 11	sugar

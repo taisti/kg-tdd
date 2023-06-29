@@ -1,0 +1,19 @@
+T1	quantity 0 1	3
+T2	quantity 24 25	½
+T3	quantity 53 54	½
+T4	quantity 73 74	2
+T5	quantity 116 117	¼
+T6	process 17 23	sliced
+T7	process 36 42	peeled
+T8	process 47 52	cubed
+T9	unit 55 58	cup
+T10	unit 75 86	tablespoons
+T11	unit 118 126	teaspoon
+T12	food_product 26 34	cucumber
+T13	process 97 103	seeded
+T14	process 108 115	chopped
+T15	food_product 59 72	coconut water
+T16	food_product 87 95	jalapeño
+T17	food_product 127 145	himalayan sea salt
+T18	part 2 8	stalks
+T19	food_product 9 15	celery

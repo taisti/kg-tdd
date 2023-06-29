@@ -1,0 +1,15 @@
+T1	quantity 0 1	1
+T2	quantity 29 30	¾
+T3	quantity 47 48	¾
+T4	quantity 77 78	½
+T5	quantity 87 88	2
+T6	unit 31 34	cup
+T7	unit 49 52	cup
+T8	unit 79 82	cup
+T9	food_product 89 93	eggs
+T10	food_product 35 46	marshmallow
+T11	process 69 76	crushed
+T12	food_product 83 85	oi
+T13	food_product 53 67	graham cracker
+T14	unit 2 9	package
+T15	food_product 10 28	chocolate cake mix

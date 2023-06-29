@@ -1,0 +1,46 @@
+T1	food_product_with_unit 166 170	salt
+T2	food_product_with_unit 175 181	pepper
+T3	quantity 122 123	2
+T4	quantity 125 127	14
+T5	quantity 38 39	2
+T6	quantity 41 43	16
+T7	quantity 15 16	1
+T8	quantity 0 1	8
+T9	unit 2 8	slices
+T10	unit 44 49	ounce
+T11	unit 51 55	bags
+T12	unit 128 133	ounce
+T13	unit 135 139	cans
+T14	process 140 145	diced
+T15	process 156 165	undrained
+T16	process 56 62	frozen
+T17	process 63 66	cut
+T18	food_product_with_unit 67 71	okra
+T19	food_product_with_unit 146 154	tomatoes
+T20	quantity 76 77	2
+T21	unit 77 80	lb.
+T22	physical_quality 81 86	fresh
+T23	food_product_with_unit 87 91	okra
+T24	process 93 120	sliced into 1/2 inch pieces
+T25	physical_quality 17 22	large
+T26	food_product_without_unit_countable 23 28	onion
+T27	process 30 37	chopped
+T28	food_product_with_unit 9 14	bacon
+R1	refers Arg1:T23 Arg2:T24	
+R2	refers Arg1:T23 Arg2:T22	
+R3	refers Arg1:T21 Arg2:T20	
+R4	refers Arg1:T23 Arg2:T21	
+R5	refers Arg1:T18 Arg2:T17	
+R6	refers Arg1:T18 Arg2:T16	
+R7	each Arg1:T11 Arg2:T10	
+R8	refers Arg1:T10 Arg2:T6	
+R9	refers Arg1:T11 Arg2:T5	
+R10	refers Arg1:T18 Arg2:T11	
+R11	or Arg1:T18 Arg2:T23	
+R12	refers Arg1:T26 Arg2:T25	
+R13	refers Arg1:T26 Arg2:T27	
+R14	refers Arg1:T28 Arg2:T9	
+R15	refers Arg1:T9 Arg2:T8	
+R16	refers Arg1:T26 Arg2:T7	
+R17	refers Arg1:T12 Arg2:T4	
+R18	each Arg1:T13 Arg2:T12	

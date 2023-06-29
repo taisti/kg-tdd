@@ -1,0 +1,30 @@
+T1	quantity 0 1	3
+T2	quantity 132 137	1 1/2
+T3	quantity 187 188	1
+T4	quantity 208 209	3
+T5	quantity 236 237	2
+T6	food_product 273 277	salt
+T7	food_product 278 284	pepper
+T8	food_product 2 10	avocados
+T9	physical_quality 12 16	ripe
+T10	food_product 52 56	Hass
+T11	physical_quality 88 94	larger
+T12	physical_quality 96 104	fruitier
+T13	food_product 105 113	avocados
+T14	possible_substitue 88 130	larger, fruitier avocados in South Florida
+T15	unit 138 142	cups
+T16	physical_quality 143 148	fresh
+T17	food_product 149 157	tomatoes
+T18	process 159 162	cut
+T19	physical_quality 168 185	bite-sized chunks
+T20	food_product 189 198	red onion
+T21	process 200 206	sliced
+T22	unit 210 221	tablespoons
+T23	unit 238 249	tablespoons
+T24	physical_quality 250 262	extra-virgin
+T25	food_product 263 272	olive oil
+T26	food_product 222 235	white vinegar
+T28	possible_substitue 2 56	avocados (ripe, I live in California now so I use Hass
+T27	type 52 56	Hass
+T29	type 189 192	red
+T30	freshness 143 148	fresh

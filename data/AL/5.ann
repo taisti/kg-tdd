@@ -1,0 +1,22 @@
+T1	quantity 0 2	10
+T2	quantity 53 55	16
+T3	quantity 95 96	1
+T4	quantity 143 144	2
+T5	quantity 170 171	1
+T6	unit 56 62	ounces
+T7	food_product 97 102	onion
+T8	unit 145 156	tablespoons
+T9	unit 172 175	cup
+T10	food_product 157 169	curry powder
+T11	process 104 111	chopped
+T12	part 19 25	thighs
+T13	food_product 11 18	chicken
+T14	physical_quality 3 10	bone in
+T15	physical_quality 38 51	skins removed
+T16	quantity 27 32	2-3/4
+T17	unit 33 36	lb.
+T18	trade_name 176 200	Knudsen Light Sour Cream
+T19	trade_name 205 229	BREAKSTONE'S Reduced Fat
+T20	possible_substitue 205 229	BREAKSTONE'S Reduced Fat
+T21	possible_substitue 176 200	Knudsen Light Sour Cream
+T22	trade_name 63 94	TACO BELL® Thick & Chunky Salsa

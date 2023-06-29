@@ -1,0 +1,16 @@
+T1	quantity 0 1	1
+T2	quantity 40 41	2
+T3	quantity 75 76	1
+T4	quantity 90 94	6 -8
+T5	quantity 113 114	2
+T6	physical_quality 24 38	broken in half
+T7	food_product 8 22	graham cracker
+T9	unit 2 7	sheet
+T10	unit 42 48	pieces
+T11	food_product 77 89	marshmallows
+T12	physical_quality 95 100	fresh
+T13	food_product 101 112	blueberries
+T14	physical_quality 115 120	thick
+T15	food_product 121 131	strawberry
+T16	unit 132 138	slices
+T8	food_product 49 74	milk chocolate candy bars

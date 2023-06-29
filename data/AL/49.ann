@@ -1,0 +1,24 @@
+T1	quantity 0 1	1
+T2	food_product 2 7	onion
+T3	physical_quality 9 15	medium
+T4	process 17 23	sliced
+T5	quantity 25 26	1
+T6	quantity 50 51	1
+T7	quantity 80 83	1/3
+T8	quantity 94 97	1/3
+T9	quantity 116 119	1/2
+T10	quantity 134 137	1/4
+T11	food_product 27 32	apple
+T12	physical_quality 34 40	medium
+T13	process 42 48	sliced
+T14	process 70 78	shredded
+T15	unit 84 87	cup
+T16	food_product 88 93	sugar
+T17	unit 98 101	cup
+T18	food_product 102 115	white vinegar
+T19	unit 120 128	teaspoon
+T20	food_product 129 133	salt
+T21	unit 138 146	teaspoon
+T22	food_product 147 153	pepper
+T23	unit 52 56	head
+T24	food_product 57 68	red cabbage

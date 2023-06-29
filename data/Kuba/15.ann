@@ -1,0 +1,32 @@
+T1	quantity 0 2	32
+T2	quantity 22 23	6
+T3	quantity 33 34	1
+T4	quantity 78 79	1
+T5	quantity 108 110	16
+T6	food_product_without_unit_uncountable 131 141	tater tots
+T7	unit 111 117	ounces
+T8	unit 80 83	cup
+T9	unit 35 45	tablespoon
+T10	food_product_without_unit_countable 24 32	hot dogs
+T11	unit 3 9	ounces
+T12	process 10 15	baked
+T13	food_product_with_unit 16 21	beans
+T14	food_product_with_unit 46 65	horseradish mustard
+T15	food_product_with_unit 58 65;70 76	mustard yellow
+T16	process 84 92	shredded
+T17	food_product_with_unit 93 107	cheddar cheese
+T18	food_product_with_unit 118 130	sweet potato
+A1	optional T14 Yes
+A2	optional T15 Yes
+A3	optional T13 No
+A4	optional T10 No
+A5	optional T17 No
+A6	optional T18 No
+R1	refers Arg1:T13 Arg2:T12	
+R2	refers Arg1:T13 Arg2:T11	
+R3	refers Arg1:T11 Arg2:T1	
+R4	refers Arg1:T10 Arg2:T2	
+R5	refers Arg1:T14 Arg2:T9	
+R6	refers Arg1:T9 Arg2:T3	
+R7	or Arg1:T15 Arg2:T14	
+A7	optional T6 No

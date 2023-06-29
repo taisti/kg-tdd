@@ -1,0 +1,28 @@
+T1	quantity 0 1	½
+T2	quantity 22 23	2
+T3	quantity 59 60	1
+T4	quantity 88 89	1
+T5	quantity 111 112	⅛
+T6	quantity 135 136	2
+T7	quantity 164 165	¾
+T8	unit 2 5	cup
+T9	unit 24 35	tablespoons
+T10	unit 61 71	tablespoon
+T11	unit 90 100	tablespoon
+T12	unit 113 121	teaspoon
+T13	unit 137 146	teaspoons
+T14	unit 166 169	cup
+T15	physical_quality 6 13	instant
+T16	food_product 14 21	oatmeal
+T17	process 36 48	freeze-dried
+T18	food_product 49 58	blueberry
+T19	process 72 80	slivered
+T20	food_product 81 87	almond
+T21	food_product 101 110	chia seed
+T22	food_product 122 134	vanilla bean
+T24	food_product 170 175	water
+T25	food_product 180 184	milk
+T26	process 186 193	boiling
+T27	possible_substitue 170 175	water
+T28	possible_substitue 180 184	milk
+T23	food_product 147 152	sugar

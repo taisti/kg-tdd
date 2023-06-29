@@ -1,0 +1,42 @@
+T1	quantity 0 1	1
+T2	quantity 46 47	4
+T3	unit 2 12	tablespoon
+T4	physical_quality 48 56	boneless
+T5	physical_quality 57 65	skinless
+T6	food_product 13 19	butter
+T7	quantity 23 24	1
+T8	unit 25 35	tablespoon
+T9	food_product 36 45	margarine
+T10	possible_substitue 0 19	1 tablespoon butter
+T11	possible_substitue 23 45	1 tablespoon margarine
+T12	unit 229 232	cup
+T13	food_product 233 237	milk
+T14	quantity 225 228	1⁄2
+T15	quantity 238 241	1⁄2
+T16	quantity 270 271	2
+T17	quantity 88 89	1
+T18	quantity 132 133	1
+T19	unit 242 245	cup
+T20	unit 272 276	cups
+T21	process 277 283	cooked
+T22	food_product 284 294	vegetables
+T23	process 246 254	shredded
+T24	food_product 255 269	cheddar cheese
+T25	quantity 135 141	10 3/4
+T26	unit 142 147	ounce
+T27	unit 149 152	can
+T28	food_product 153 166	mushroom soup
+T29	example 91 92	6
+T30	unit 93 98	ounce
+T31	unit 100 103	box
+T32	food_product 66 73	chicken
+T33	part 74 87	breast halves
+T34	taste 104 118	chicken flavor
+T35	food_product 119 131	stuffing mix
+T36	quantity 171 177	10 3/4
+T37	unit 178 183	ounce
+T38	unit 185 188	can
+T39	physical_quality 189 201	98% fat-free
+T40	food_product 202 224	cream of mushroom soup
+T41	possible_substitue 132 166	1 (10 3/4 ounce) can mushroom soup
+T42	possible_substitue 170 224	(10 3/4 ounce) can 98% fat-free cream of mushroom soup
