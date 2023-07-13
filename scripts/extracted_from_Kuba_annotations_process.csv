@@ -1,0 +1,105 @@
+,input_file,sample,processed_sample,processed_sample_(scientific),status,matched_component
+0,../data/Kuba/2.ann,1 freshly grated,freshly grated,freshly grated,No Match,
+1,../data/Kuba/2.ann,2 ground,ground,ground,No Match,
+0,../data/Kuba/46.ann,1 chopped,chopped,chopped,No Match,
+1,../data/Kuba/46.ann,2 clarified,clarified,clarified,No Match,
+0,../data/Kuba/45.ann,1 shredded,shredded,shredded,No Match,
+1,../data/Kuba/45.ann,2 cooked,cooked,cooked,Full Term Match,'food (cooked):FOODON_00001181'
+0,../data/Kuba/24.ann,1 ground,ground,ground,No Match,
+1,../data/Kuba/24.ann,2 powdered,powdered,powdered,No Match,
+2,../data/Kuba/24.ann,3 whipped,whipped,whipped,No Match,
+3,../data/Kuba/24.ann,4 crushed,crushed,crushed,No Match,
+0,../data/Kuba/30.ann,1 ground,ground,ground,No Match,
+1,../data/Kuba/30.ann,2 mashed,mashed,mashed,Full Term Match,'semisolid with smooth consistency:FOODON_03430119'
+2,../data/Kuba/30.ann,3 sweetened,sweetened,sweetened,No Match,
+0,../data/Kuba/43.ann,1 slivered,slivered,slivered,No Match,
+1,../data/Kuba/43.ann,2 cooked,cooked,cooked,Full Term Match,'food (cooked):FOODON_00001181'
+2,../data/Kuba/43.ann,3 crubled,crubled,crubled,No Match,
+3,../data/Kuba/43.ann,4 shredded,shredded,shredded,No Match,
+4,../data/Kuba/43.ann,5 chopped,chopped,chopped,No Match,
+0,../data/Kuba/15.ann,1 baked,baked,baked,Full Term Match,'food (baked):FOODON_00002456'
+1,../data/Kuba/15.ann,2 shredded,shredded,shredded,No Match,
+0,../data/Kuba/38.ann,1 frozen,frozen,frozen,Full Term Match,'frozen:PATO_0001985'
+1,../data/Kuba/38.ann,2 blanched,blanched,blanched,No Match,
+2,../data/Kuba/38.ann,3 drained,drained,drained,No Match,
+0,../data/Kuba/49.ann,1 shredded,shredded,shredded,No Match,
+1,../data/Kuba/49.ann,2 sliced,sliced,sliced,Full Term Match,'food (sliced):FOODON_00002455'
+2,../data/Kuba/49.ann,3 sliced,sliced,sliced,Full Term Match,'food (sliced):FOODON_00002455'
+0,../data/Kuba/27.ann,1 cored,cored,cored,No Match,
+1,../data/Kuba/27.ann,2 diced,diced,diced,No Match,
+0,../data/Kuba/11.ann,1 whipped,whipped,whipped,No Match,
+0,../data/Kuba/5.ann,1 skins removed,skin removed,skin removed,Component Match,'skin of body:UBERON_0002097'
+1,../data/Kuba/5.ann,2 chopped,chopped,chopped,No Match,
+0,../data/Kuba/21.ann,1 salted,salted,salted,Full Term Match,'food (salted):FOODON_03460173'
+1,../data/Kuba/21.ann,2 softened,softened,softened,No Match,
+0,../data/Kuba/23.ann,1 cooled,cooled,cooled,No Match,
+1,../data/Kuba/23.ann,2 prepared hot,prepared hot,prepared hot,Component Match,'prepared seafood product:FOODON_00002471'
+0,../data/Kuba/40.ann,1 completely defrosted,completely defrosted,completely defrosted,No Match,
+1,../data/Kuba/40.ann,2 zested,zested,zested,No Match,
+0,../data/Kuba/13.ann,1 rinsed,rinsed,rinsed,No Match,
+1,../data/Kuba/13.ann,2 drained,drained,drained,No Match,
+2,../data/Kuba/13.ann,3 roasted,roasted,roasted,Full Term Match,'food (roasted):FOODON_00002744'
+3,../data/Kuba/13.ann,4 minced,minced,minced,No Match,
+4,../data/Kuba/13.ann,5 ground,ground,ground,No Match,
+5,../data/Kuba/13.ann,6 drained,drained,drained,No Match,
+0,../data/Kuba/39.ann,1 cored,cored,cored,No Match,
+1,../data/Kuba/39.ann,2 thinly sliced,thinly sliced,thinly sliced,Component Match,'food (sliced):FOODON_00002455'
+0,../data/Kuba/41.ann,1 prepared per package instructions,prepared per package instruction,prepared per package instruction,Component Match,'prepared seafood product:FOODON_00002471'
+0,../data/Kuba/17.ann,1 grated,grated,grated,No Match,
+0,../data/Kuba/19.ann,1 drained,drained,drained,No Match,
+1,../data/Kuba/19.ann,2 peeled,peeled,peeled,Full Term Match,'food (peeled):FOODON_00002655'
+2,../data/Kuba/19.ann,3 crushed,crushed,crushed,No Match,
+0,../data/Kuba/16.ann,1 minced,minced,minced,No Match,
+1,../data/Kuba/16.ann,2 minced,minced,minced,No Match,
+0,../data/Kuba/6.ann,1 melted,melted,melted,No Match,
+0,../data/Kuba/29.ann,1 melted,melted,melted,No Match,
+1,../data/Kuba/29.ann,2 unsalted,unsalted,unsalted,No Match,
+2,../data/Kuba/29.ann,3 chopped,chopped,chopped,No Match,
+0,../data/Kuba/47.ann,1 crushed,crushed,crushed,No Match,
+0,../data/Kuba/1.ann,1 refrigerated,refrigerated,refrigerated,No Match,
+1,../data/Kuba/1.ann,2 melted,melted,melted,No Match,
+2,../data/Kuba/1.ann,3 with icing,with icing,with icing,Component Match,'icing (food product):FOODON_03301932'
+0,../data/Kuba/42.ann,1 softened,softened,softened,No Match,
+0,../data/Kuba/18.ann,1 sliced,sliced,sliced,Full Term Match,'food (sliced):FOODON_00002455'
+1,../data/Kuba/18.ann,2 peeled,peeled,peeled,Full Term Match,'food (peeled):FOODON_00002655'
+2,../data/Kuba/18.ann,3 cubed,cubed,cubed,No Match,
+3,../data/Kuba/18.ann,4 seeded,seeded,seeded,No Match,
+4,../data/Kuba/18.ann,5 chopped,chopped,chopped,No Match,
+0,../data/Kuba/48.ann,1 roasted,roasted,roasted,Full Term Match,'food (roasted):FOODON_00002744'
+1,../data/Kuba/48.ann,2 unsalted,unsalted,unsalted,No Match,
+2,../data/Kuba/48.ann,3 popped,popped,popped,No Match,
+3,../data/Kuba/48.ann,4 remove unpopped kernels,remove unpopped kernel,remove unpopped kernel,No Match,
+0,../data/Kuba/14.ann,1 drained,drained,drained,No Match,
+1,../data/Kuba/14.ann,2 rinsed,rinsed,rinsed,No Match,
+2,../data/Kuba/14.ann,3 ground,ground,ground,No Match,
+0,../data/Kuba/31.ann,1 whipped,whipped,whipped,No Match,
+0,../data/Kuba/10.ann,1 sliced,sliced,sliced,Full Term Match,'food (sliced):FOODON_00002455'
+1,../data/Kuba/10.ann,2 cut into bite-sized chunks,cut into bite sized chunk,cut into bite sized chunk,Component Match,'cut:ENVO_00000474'
+0,../data/Kuba/44.ann,1 melted,melted,melted,No Match,
+0,../data/Kuba/35.ann,1 diced,diced,diced,No Match,
+1,../data/Kuba/35.ann,2 undrained,undrained,undrained,No Match,
+2,../data/Kuba/35.ann,3 frozen,frozen,frozen,Full Term Match,'frozen:PATO_0001985'
+3,../data/Kuba/35.ann,4 cut,cut,cut,Full Term Match,'cut:ENVO_00000474'
+4,../data/Kuba/35.ann,5 sliced into 1/2 inch pieces,sliced into inch piece,sliced into inch piece,Component Match,'food (sliced):FOODON_00002455'
+4,../data/Kuba/35.ann,5 sliced into 1/2 inch pieces,sliced into inch piece,sliced into inch piece,Component Match, 'inch:UO_0010011'
+5,../data/Kuba/35.ann,6 chopped,chopped,chopped,No Match,
+0,../data/Kuba/26.ann,1 chopped,chopped,chopped,No Match,
+1,../data/Kuba/26.ann,2 hard boiled,hard boiled,hard boiled,Component Match,'food (boiled):FOODON_00002688'
+1,../data/Kuba/26.ann,2 hard boiled,hard boiled,hard boiled,Component Match, 'hard:PATO_0000386'
+2,../data/Kuba/26.ann,3 chopped,chopped,chopped,No Match,
+3,../data/Kuba/26.ann,4 cubed,cubed,cubed,No Match,
+0,../data/Kuba/34.ann,1 unsweetened,unsweetened,unsweetened,No Match,
+1,../data/Kuba/34.ann,2 sweetened,sweetened,sweetened,No Match,
+0,../data/Kuba/37.ann,1 vine ripened,vine ripened,vine ripened,No Match,
+1,../data/Kuba/37.ann,2 de-seeded,de seeded,de seeded,No Match,
+2,../data/Kuba/37.ann,3 chopped,chopped,chopped,No Match,
+3,../data/Kuba/37.ann,4 sliced,sliced,sliced,Full Term Match,'food (sliced):FOODON_00002455'
+4,../data/Kuba/37.ann,5 pitted,pitted,pitted,No Match,
+5,../data/Kuba/37.ann,6 sliced,sliced,sliced,Full Term Match,'food (sliced):FOODON_00002455'
+6,../data/Kuba/37.ann,7 pitted,pitted,pitted,No Match,
+0,../data/Kuba/25.ann,1 freeze-dried,freeze dried,freeze dried,Full Term Match,'food (freeze-dried):FOODON_03301752'
+1,../data/Kuba/25.ann,2 slivered,slivered,slivered,No Match,
+0,../data/Kuba/28.ann,1 sliced,sliced,sliced,Full Term Match,'food (sliced):FOODON_00002455'
+0,../data/Kuba/22.ann,1 fully cooked,fully cooked,fully cooked,Component Match,'food (cooked):FOODON_00001181'
+1,../data/Kuba/22.ann,2 spicy,spicy,spicy,No Match,
+0,../data/Kuba/9.ann,1 freshly squeezed,freshly squeezed,freshly squeezed,No Match,

@@ -4,20 +4,7 @@ import pandas as pd
 from typing import List
 from tqdm import tqdm
 import argparse
-
-
-class Document:
-    BASE_DIR = '../data/texts'
-    text : List[str]
-    filename : str
-    def __init__(self, filename, text):
-        self.text = text
-        self.filename = filename
-    def iterate_over_files(path : str):
-        for document in os.listdir(path):
-            yield document
-    def to_df(self) -> pd.DataFrame:
-        return pd.DataFrame(data = {'SampleId' : [str(i+1) for i,_ in enumerate(self.text)],'Sample' : self.text})
+from Annotation import Annotation, Document
 
 
 def create_document_colletion() -> List[Document]:
@@ -32,6 +19,7 @@ def create_document_colletion() -> List[Document]:
 def main():
     all_data = pd.DataFrame(columns=['input_file', 'sample', 'processed_sample', 'processed_sample_(scientific)', 'status', 'matched_component'])
     for document in tqdm(create_document_colletion()):
+
         document.to_df().to_csv('temp.csv')
         lexmapr.pipeline.run(argparse.Namespace(input_file='temp.csv', config='sample_config.json',
                                                         full=None, output='output_temp.tsv', version=False,
@@ -42,7 +30,7 @@ def main():
         out_df.drop(columns=['Sample_Id','Matched_Components'],inplace=True)
         out_df.columns = ['sample','processed_sample','processed_sample_(scientific)','status','matched_component','input_file']
         all_data = pd.concat([all_data, out_df])
-    all_data.to_csv('extracted_from_input_files.csv')
+    # all_data.to_csv('extracted_from_input_files.csv')
 
 
 if __name__=="__main__":

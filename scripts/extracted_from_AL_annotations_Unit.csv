@@ -1,0 +1,231 @@
+,input_file,sample,processed_sample,processed_sample_(scientific),status,matched_component
+0,../data/AL/32.ann,1 slices,slice,slice,No Match,
+1,../data/AL/32.ann,2 slice,slice,slice,No Match,
+2,../data/AL/32.ann,3 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/2.ann,1 cup,cup,cup,No Match,
+1,../data/AL/2.ann,2 cup,cup,cup,No Match,
+2,../data/AL/2.ann,3 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+3,../data/AL/2.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/2.ann,5 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/46.ann,1 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/45.ann,1 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+1,../data/AL/45.ann,2 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/45.ann,3 cup,cup,cup,No Match,
+3,../data/AL/45.ann,4 cup,cup,cup,No Match,
+4,../data/AL/45.ann,5 cups,cup,cup,No Match,
+5,../data/AL/45.ann,6 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+6,../data/AL/45.ann,7 can,can,can,No Match,
+7,../data/AL/45.ann,8 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+8,../data/AL/45.ann,9 box,box,box,No Match,
+9,../data/AL/45.ann,10 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+10,../data/AL/45.ann,11 can,can,can,No Match,
+0,../data/AL/24.ann,1 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+1,../data/AL/24.ann,2 cup,cup,cup,No Match,
+2,../data/AL/24.ann,3 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+3,../data/AL/24.ann,4 cups,cup,cup,No Match,
+0,../data/AL/30.ann,1 cups,cup,cup,No Match,
+1,../data/AL/30.ann,2 cup,cup,cup,No Match,
+2,../data/AL/30.ann,3 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+3,../data/AL/30.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/30.ann,5 can,can,can,No Match,
+5,../data/AL/30.ann,6 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+0,../data/AL/20.ann,1 slice,slice,slice,No Match,
+1,../data/AL/20.ann,2 slices,slice,slice,No Match,
+2,../data/AL/20.ann,3 slices,slice,slice,No Match,
+0,../data/AL/43.ann,1 cup,cup,cup,No Match,
+1,../data/AL/43.ann,2 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/43.ann,3 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+3,../data/AL/43.ann,4 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+0,../data/AL/3.ann,1 sheet,sheet,sheet,No Match,
+1,../data/AL/3.ann,2 pieces,piece,piece,No Match,
+2,../data/AL/3.ann,3 slices,slice,slice,No Match,
+0,../data/AL/7.ann,1 cups,cup,cup,No Match,
+1,../data/AL/7.ann,2 cups,cup,cup,No Match,
+2,../data/AL/7.ann,3 cup,cup,cup,No Match,
+0,../data/AL/15.ann,1 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/15.ann,2 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/15.ann,3 cup,cup,cup,No Match,
+3,../data/AL/15.ann,4 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+0,../data/AL/38.ann,1 cups,cup,cup,No Match,
+1,../data/AL/38.ann,2 cups,cup,cup,No Match,
+2,../data/AL/38.ann,3 lbs,pound,pound,Full Term Match,'pound:UO_0010034'
+0,../data/AL/49.ann,1 cup,cup,cup,No Match,
+1,../data/AL/49.ann,2 cup,cup,cup,No Match,
+2,../data/AL/49.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/49.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/49.ann,5 head,head,head,Full Term Match,'head:UBERON_0000033'
+0,../data/AL/27.ann,1 cup,cup,cup,No Match,
+1,../data/AL/27.ann,2 bags,bag,bag,Full Term Match,'bag:NCIT_C43167'
+2,../data/AL/27.ann,3 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+3,../data/AL/27.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/27.ann,5 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/11.ann,1 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/11.ann,2 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/11.ann,3 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+0,../data/AL/5.ann,1 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/5.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/5.ann,3 cup,cup,cup,No Match,
+3,../data/AL/5.ann,4 lb.,pound,pound,Full Term Match,'pound:UO_0010034'
+0,../data/AL/21.ann,1 cup,cup,cup,No Match,
+1,../data/AL/21.ann,2 sticks,stick,stick,No Match,
+2,../data/AL/21.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/21.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/21.ann,5 cups,cup,cup,No Match,
+5,../data/AL/21.ann,6 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/23.ann,1 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/23.ann,2 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/23.ann,3 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+3,../data/AL/23.ann,4 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+0,../data/AL/40.ann,1 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+1,../data/AL/40.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/40.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/40.ann,4 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+4,../data/AL/40.ann,5 pounds,pound,pound,Full Term Match,'pound:UO_0010034'
+0,../data/AL/13.ann,1 oz,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/13.ann,2 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+2,../data/AL/13.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/13.ann,4 can,can,can,No Match,
+4,../data/AL/13.ann,5 clove,clove,clove,No Match,
+5,../data/AL/13.ann,6 oz,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+6,../data/AL/13.ann,7 jar,jar,jar,No Match,
+7,../data/AL/13.ann,8 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+8,../data/AL/13.ann,9 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/39.ann,1 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/39.ann,2 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/39.ann,3 slices,slice,slice,No Match,
+3,../data/AL/39.ann,4 slices,slice,slice,No Match,
+0,../data/AL/0.ann,1 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/0.ann,2 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/0.ann,3 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+3,../data/AL/0.ann,4 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+0,../data/AL/41.ann,1 box,box,box,No Match,
+1,../data/AL/41.ann,2 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/41.ann,3 bag,bag,bag,Full Term Match,'bag:NCIT_C43167'
+0,../data/AL/17.ann,1 cup,cup,cup,No Match,
+1,../data/AL/17.ann,2 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+2,../data/AL/17.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/17.ann,4 cup,cup,cup,No Match,
+4,../data/AL/17.ann,5 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+5,../data/AL/17.ann,6 cup,cup,cup,No Match,
+0,../data/AL/19.ann,1 can,can,can,No Match,
+1,../data/AL/19.ann,2 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/19.ann,3 cup,cup,cup,No Match,
+3,../data/AL/19.ann,4 clove,clove,clove,No Match,
+4,../data/AL/19.ann,5 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/16.ann,1 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+1,../data/AL/16.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/16.ann,3 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+3,../data/AL/16.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/16.ann,5 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/6.ann,1 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+1,../data/AL/6.ann,2 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+2,../data/AL/6.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/6.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/29.ann,1 cups,cup,cup,No Match,
+1,../data/AL/29.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/29.ann,3 cup,cup,cup,No Match,
+3,../data/AL/29.ann,4 cup,cup,cup,No Match,
+4,../data/AL/29.ann,5 cup,cup,cup,No Match,
+0,../data/AL/47.ann,1 cup,cup,cup,No Match,
+1,../data/AL/47.ann,2 cup,cup,cup,No Match,
+2,../data/AL/47.ann,3 cup,cup,cup,No Match,
+3,../data/AL/47.ann,4 package,package,package,No Match,
+0,../data/AL/50.ann,1 pounds,pound,pound,Full Term Match,'pound:UO_0010034'
+1,../data/AL/50.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/50.ann,3 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/1.ann,1 tubes,tube,tube,Full Term Match,'tube:NCIT_C41277'
+1,../data/AL/1.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/1.ann,3 cup,cup,cup,No Match,
+3,../data/AL/1.ann,4 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/1.ann,5 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+5,../data/AL/1.ann,6 cup,cup,cup,No Match,
+0,../data/AL/33.ann,1 cups,cup,cup,No Match,
+1,../data/AL/33.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/33.ann,3 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/42.ann,1 cup,cup,cup,No Match,
+1,../data/AL/42.ann,2 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+2,../data/AL/42.ann,3 cup,cup,cup,No Match,
+3,../data/AL/42.ann,4 cup,cup,cup,No Match,
+4,../data/AL/42.ann,5 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+5,../data/AL/42.ann,6 cup,cup,cup,No Match,
+0,../data/AL/18.ann,1 cup,cup,cup,No Match,
+1,../data/AL/18.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/18.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/12.ann,1 grams,,gram,Full Term Match,'percent:UO_0000187'
+1,../data/AL/12.ann,2 grams,,gram,Full Term Match,'percent:UO_0000187'
+2,../data/AL/12.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/12.ann,4 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+4,../data/AL/12.ann,5 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+0,../data/AL/48.ann,1 cup,cup,cup,No Match,
+1,../data/AL/48.ann,2 cup,cup,cup,No Match,
+2,../data/AL/48.ann,3 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+3,../data/AL/48.ann,4 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+4,../data/AL/48.ann,5 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+5,../data/AL/48.ann,6 bag,bag,bag,Full Term Match,'bag:NCIT_C43167'
+6,../data/AL/48.ann,7 quarts,quart,quart,Full Term Match,'quart:UO_0010029'
+7,../data/AL/48.ann,8 bag,bag,bag,Full Term Match,'bag:NCIT_C43167'
+0,../data/AL/14.ann,1 oz,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/14.ann,2 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+2,../data/AL/14.ann,3 clove,clove,clove,No Match,
+3,../data/AL/14.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/14.ann,5 cup,cup,cup,No Match,
+5,../data/AL/14.ann,6 can,can,can,No Match,
+6,../data/AL/14.ann,7 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+7,../data/AL/14.ann,8 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/31.ann,1 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+0,../data/AL/10.ann,1 cups,cup,cup,No Match,
+1,../data/AL/10.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/10.ann,3 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/44.ann,1 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+1,../data/AL/44.ann,2 cups,cup,cup,No Match,
+2,../data/AL/44.ann,3 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/44.ann,4 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+0,../data/AL/4.ann,1 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+1,../data/AL/4.ann,2 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+2,../data/AL/4.ann,3 cup,cup,cup,No Match,
+3,../data/AL/4.ann,4 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+4,../data/AL/4.ann,5 package,package,package,No Match,
+5,../data/AL/4.ann,6 cup,cup,cup,No Match,
+6,../data/AL/4.ann,7 slices,slice,slice,No Match,
+0,../data/AL/35.ann,1 slices,slice,slice,No Match,
+1,../data/AL/35.ann,2 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/35.ann,3 bags,bag,bag,Full Term Match,'bag:NCIT_C43167'
+3,../data/AL/35.ann,4 ounce,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+4,../data/AL/35.ann,5 cans,can,can,No Match,
+5,../data/AL/35.ann,6 lb.,pound,pound,Full Term Match,'pound:UO_0010034'
+0,../data/AL/26.ann,1 pounds,pound,pound,Full Term Match,'pound:UO_0010034'
+1,../data/AL/26.ann,2 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/26.ann,3 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/34.ann,1 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+1,../data/AL/34.ann,2 ounces,ounce,ounce,Full Term Match,'ounce:UO_0010033'
+2,../data/AL/34.ann,3 cups,cup,cup,No Match,
+3,../data/AL/34.ann,4 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/37.ann,1 cup,cup,cup,No Match,
+1,../data/AL/37.ann,2 cup,cup,cup,No Match,
+2,../data/AL/37.ann,3 milliliters,milliliter,milliliter,Full Term Match,'milliliter:UO_0000098'
+3,../data/AL/37.ann,4 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+4,../data/AL/37.ann,5 milliliters,milliliter,milliliter,Full Term Match,'milliliter:UO_0000098'
+0,../data/AL/25.ann,1 cup,cup,cup,No Match,
+1,../data/AL/25.ann,2 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+2,../data/AL/25.ann,3 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+3,../data/AL/25.ann,4 tablespoon,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+4,../data/AL/25.ann,5 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+5,../data/AL/25.ann,6 teaspoons,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+6,../data/AL/25.ann,7 cup,cup,cup,No Match,
+0,../data/AL/8.ann,1 cup,cup,cup,No Match,
+1,../data/AL/8.ann,2 cup,cup,cup,No Match,
+2,../data/AL/8.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+0,../data/AL/28.ann,1 cup,cup,cup,No Match,
+1,../data/AL/28.ann,2 cup,cup,cup,No Match,
+2,../data/AL/28.ann,3 cup,cup,cup,No Match,
+0,../data/AL/22.ann,1 cups,cup,cup,No Match,
+1,../data/AL/22.ann,2 cup,cup,cup,No Match,
+2,../data/AL/22.ann,3 tablespoons,tablespoon,tablespoon,Full Term Match,'tablespoon:UO_0010042'
+3,../data/AL/22.ann,4 can,can,can,No Match,
+4,../data/AL/22.ann,5 Pounds,pound,pound,Full Term Match,'pound:UO_0010034'
+0,../data/AL/9.ann,1 cup,cup,cup,No Match,
+1,../data/AL/9.ann,2 cup,cup,cup,No Match,
+0,../data/AL/36.ann,1 cups,cup,cup,No Match,
+1,../data/AL/36.ann,2 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+2,../data/AL/36.ann,3 teaspoon,teaspoon,teaspoon,Full Term Match,'teaspoon:UO_0010040'
+3,../data/AL/36.ann,4 cups,cup,cup,No Match,

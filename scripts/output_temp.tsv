@@ -1,5 +1,5 @@
 Sample_Id	Sample_Desc	Processed_Sample	Processed_Sample (With Scientific Name)	Matched_Components	Match_Status(Macro Level)
-0	1 milk	milk	milk	['lowfat cow milk (1% fat):FOODON_00002815']	Full Term Match
-1	2 baking soda	baking soda	baking soda	['baking soda product:FOODON_00002385']	Full Term Match
-2	3 salt	salt	salt	['salt:CHEBI_24866']	Full Term Match
-3	4 flour	flour	flour	['flour food product:FOODON_00001056']	Full Term Match
+0	1 cups	cup	cup	[]	No Match
+1	2 teaspoon	teaspoon	teaspoon	['teaspoon:UO_0010040']	Full Term Match
+2	3 teaspoon	teaspoon	teaspoon	['teaspoon:UO_0010040']	Full Term Match
+3	4 cups	cup	cup	[]	No Match

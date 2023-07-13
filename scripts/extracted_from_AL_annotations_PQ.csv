@@ -1,0 +1,68 @@
+,input_file,sample,processed_sample,processed_sample_(scientific),status,matched_component
+0,../data/AL/2.ann,1 ripe,ripe,ripe,No Match,
+1,../data/AL/2.ann,2 freshly grated,freshly grated,freshly grated,No Match,
+0,../data/AL/46.ann,1 at room temperature,at room temperature,at room temperature,Component Match,'room:ENVO_01000426'
+0,../data/AL/46.ann,1 at room temperature,at room temperature,at room temperature,Component Match, 'temperature:PATO_0000146'
+0,../data/AL/45.ann,1 boneless,boneless,boneless,No Match,
+1,../data/AL/45.ann,2 skinless,skinless,skinless,No Match,
+2,../data/AL/45.ann,3 98% fat-free,fat free,fat free,Component Match,'fat:FOODON_00003265'
+0,../data/AL/24.ann,1 hot,hot,hot,No Match,
+1,../data/AL/24.ann,2 full-fat,full fat,full fat,Component Match,'fat:FOODON_00003265'
+0,../data/AL/30.ann,1 sweetened,sweetened,sweetened,No Match,
+0,../data/AL/20.ann,1 del,del,del,Full Term Match,'del:UBERON_2000711'
+0,../data/AL/3.ann,1 broken in half,broken in half,broken in half,No Match,
+1,../data/AL/3.ann,2 fresh,fresh,fresh,Full Term Match,'food (fresh):FOODON_00002457'
+2,../data/AL/3.ann,3 thick,thick,thick,No Match,
+0,../data/AL/38.ann,1 extra virgin,extra virgin,extra virgin,No Match,
+1,../data/AL/38.ann,2 fresh,fresh,fresh,Full Term Match,'food (fresh):FOODON_00002457'
+2,../data/AL/38.ann,3 large,large,large,No Match,
+3,../data/AL/38.ann,4 fresh,fresh,fresh,Full Term Match,'food (fresh):FOODON_00002457'
+4,../data/AL/38.ann,5 fresh,fresh,fresh,Full Term Match,'food (fresh):FOODON_00002457'
+5,../data/AL/38.ann,6 frozen,frozen,frozen,Full Term Match,'frozen:PATO_0001985'
+0,../data/AL/49.ann,1 medium,medium,medium,No Match,
+1,../data/AL/49.ann,2 medium,medium,medium,No Match,
+0,../data/AL/27.ann,1 warm,warm,warm,No Match,
+0,../data/AL/11.ann,1 hot,hot,hot,No Match,
+0,../data/AL/5.ann,1 bone in,bone in,bone in,No Match,
+1,../data/AL/5.ann,2 skins removed,skin removed,skin removed,Component Match,'skin of body:UBERON_0002097'
+0,../data/AL/21.ann,1 salted,salted,salted,Full Term Match,'food (salted):FOODON_03460173'
+0,../data/AL/23.ann,1 dark,dark,dark,No Match,
+1,../data/AL/23.ann,2 mini,mini,mini,No Match,
+0,../data/AL/40.ann,1 fresh,fresh,fresh,Full Term Match,'food (fresh):FOODON_00002457'
+0,../data/AL/13.ann,1 extra virgin,extra virgin,extra virgin,No Match,
+0,../data/AL/39.ann,1 fresh,fresh,fresh,Full Term Match,'food (fresh):FOODON_00002457'
+1,../data/AL/39.ann,2 thin,thin,thin,No Match,
+2,../data/AL/39.ann,3 whole wheat,whole wheat,whole wheat {triticum aestivum},Full Term Match,'whole wheat food product:FOODON_03307448'
+0,../data/AL/17.ann,1 low-fat,low fat,low fat,Component Match,'fat:FOODON_00003265'
+0,../data/AL/16.ann,1 weighing approx. 8 oz,weighing approximate ounce,weighing approximate ounce,Component Match,'ounce:NCIT_C48519'
+0,../data/AL/6.ann,1 medium,medium,medium,No Match,
+1,../data/AL/6.ann,2 6 - 8 oz. each,ounce,ounce each,Full Term Match,'ounce:NCIT_C48519'
+0,../data/AL/29.ann,1 unsalted,unsalted,unsalted,No Match,
+1,../data/AL/29.ann,2 natural,natural,natural,No Match,
+0,../data/AL/1.ann,1 with icing,with icing,with icing,Component Match,'icing (food product):FOODON_03301932'
+0,../data/AL/42.ann,1 room temperature,room temperature,room temperature,Component Match,'room:ENVO_01000426'
+0,../data/AL/42.ann,1 room temperature,room temperature,room temperature,Component Match, 'temperature:PATO_0000146'
+1,../data/AL/42.ann,2 room temperature,room temperature,room temperature,Component Match,'room:ENVO_01000426'
+1,../data/AL/42.ann,2 room temperature,room temperature,room temperature,Component Match, 'temperature:PATO_0000146'
+2,../data/AL/42.ann,3 softened,softened,softened,No Match,
+0,../data/AL/48.ann,1 miniature,miniature,miniature,No Match,
+0,../data/AL/31.ann,1 canned,canned,canned,Full Term Match,'food (canned):FOODON_00002418'
+1,../data/AL/31.ann,2 low-fat,low fat,low fat,Component Match,'fat:FOODON_00003265'
+0,../data/AL/10.ann,1 ripe,ripe,ripe,No Match,
+1,../data/AL/10.ann,2 larger,larger,larger,No Match,
+2,../data/AL/10.ann,3 fruitier,fruitier,fruitier,No Match,
+3,../data/AL/10.ann,4 fresh,fresh,fresh,Full Term Match,'food (fresh):FOODON_00002457'
+4,../data/AL/10.ann,5 bite-sized chunks,bite sized chunk,bite sized chunk,No Match,
+5,../data/AL/10.ann,6 extra-virgin,extra virgin,extra virgin,No Match,
+0,../data/AL/35.ann,1 large,large,large,No Match,
+1,../data/AL/35.ann,2 undrained,undrained,undrained,No Match,
+2,../data/AL/35.ann,3 fresh,fresh,fresh,Full Term Match,'food (fresh):FOODON_00002457'
+3,../data/AL/35.ann,4 1/2 inch pieces,inch piece,inch piece,Component Match,'inch:UO_0010011'
+0,../data/AL/34.ann,1 unsweetened,unsweetened,unsweetened,No Match,
+0,../data/AL/37.ann,1 extra virgin,extra virgin,extra virgin,No Match,
+1,../data/AL/37.ann,2 vine ripened,vine ripened,vine ripened,No Match,
+0,../data/AL/25.ann,1 instant,instant,instant,No Match,
+0,../data/AL/28.ann,1 whole,whole,whole,No Match,
+0,../data/AL/22.ann,1 whole,whole,whole,No Match,
+1,../data/AL/22.ann,2 whole,whole,whole,No Match,
+2,../data/AL/22.ann,3 bone-in,bone in,bone in,No Match,
